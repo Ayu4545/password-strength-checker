@@ -15,7 +15,7 @@ Simple and user-friendly GUI using Tkinter.
 Installation
 Clone the repository:
 
-git clone https://github.com/Abubakker-98/Pa-word_-tr3nth_Ch3ck3r
+
 Navigate to the project directory:
 
 cd Pa-word_-tr3nth_Ch3ck3r
